@@ -1,0 +1,84 @@
+Battles:
+	PrescientMoron vs Mixed. Winner: Mixed
+	PrescientMoron vs Human. Winner: PrescientMoron
+	PrescientMoron vs Blitz. Winner: Blitz
+	PrescientMoron vs SittingDuck. Winner: SittingDuck
+	PrescientMoron vs AggressivePack. Winner: AggressivePack
+	PrescientMoron vs Winner2015a. Winner: Winner2015a
+	PrescientMoron vs Winner2015b. Winner: Winner2015b
+	PrescientMoron vs Winner2016a. Winner: Winner2016a
+	Mixed vs PrescientMoron. Winner: Mixed
+	Mixed vs Human. Winner: Tie
+	Mixed vs Blitz. Winner: Mixed
+	Mixed vs SittingDuck. Winner: Mixed
+	Mixed vs AggressivePack. Winner: Mixed
+	Mixed vs Winner2015a. Winner: Winner2015a
+	Mixed vs Winner2015b. Winner: Winner2015b
+	Mixed vs Winner2016a. Winner: Tie
+	Human vs PrescientMoron. Winner: PrescientMoron
+	Human vs Mixed. Winner: Tie
+	Human vs Blitz. Winner: Blitz
+	Human vs SittingDuck. Winner: SittingDuck
+	Human vs AggressivePack. Winner: AggressivePack
+	Human vs Winner2015a. Winner: Winner2015a
+	Human vs Winner2015b. Winner: Winner2015b
+	Human vs Winner2016a. Winner: Winner2016a
+	Blitz vs PrescientMoron. Winner: Blitz
+	Blitz vs Mixed. Winner: Mixed
+	Blitz vs Human. Winner: Blitz
+	Blitz vs SittingDuck. Winner: Blitz
+	Blitz vs AggressivePack. Winner: AggressivePack
+	Blitz vs Winner2015a. Winner: Winner2015a
+	Blitz vs Winner2015b. Winner: Winner2015b
+	Blitz vs Winner2016a. Winner: Winner2016a
+	SittingDuck vs PrescientMoron. Winner: SittingDuck
+	SittingDuck vs Mixed. Winner: Mixed
+	SittingDuck vs Human. Winner: SittingDuck
+	SittingDuck vs Blitz. Winner: Blitz
+	SittingDuck vs AggressivePack. Winner: AggressivePack
+	SittingDuck vs Winner2015a. Winner: Winner2015a
+	SittingDuck vs Winner2015b. Winner: Winner2015b
+	SittingDuck vs Winner2016a. Winner: Winner2016a
+	AggressivePack vs PrescientMoron. Winner: AggressivePack
+	AggressivePack vs Mixed. Winner: Mixed
+	AggressivePack vs Human. Winner: AggressivePack
+	AggressivePack vs Blitz. Winner: AggressivePack
+	AggressivePack vs SittingDuck. Winner: AggressivePack
+	AggressivePack vs Winner2015a. Winner: Winner2015a
+	AggressivePack vs Winner2015b. Winner: Winner2015b
+	AggressivePack vs Winner2016a. Winner: Winner2016a
+	Winner2015a vs PrescientMoron. Winner: Winner2015a
+	Winner2015a vs Mixed. Winner: Tie
+	Winner2015a vs Human. Winner: Winner2015a
+	Winner2015a vs Blitz. Winner: Winner2015a
+	Winner2015a vs SittingDuck. Winner: Winner2015a
+	Winner2015a vs AggressivePack. Winner: Winner2015a
+	Winner2015a vs Winner2015b. Winner: Winner2015a
+	Winner2015a vs Winner2016a. Winner: Tie
+	Winner2015b vs PrescientMoron. Winner: Winner2015b
+	Winner2015b vs Mixed. Winner: Winner2015b
+	Winner2015b vs Human. Winner: Winner2015b
+	Winner2015b vs Blitz. Winner: Winner2015b
+	Winner2015b vs SittingDuck. Winner: Winner2015b
+	Winner2015b vs AggressivePack. Winner: Winner2015b
+	Winner2015b vs Winner2015a. Winner: Winner2015b
+	Winner2015b vs Winner2016a. Winner: Winner2015b
+	Winner2016a vs PrescientMoron. Winner: Winner2016a
+	Winner2016a vs Mixed. Winner: Winner2016a
+	Winner2016a vs Human. Winner: Winner2016a
+	Winner2016a vs Blitz. Winner: Winner2016a
+	Winner2016a vs SittingDuck. Winner: Winner2016a
+	Winner2016a vs AggressivePack. Winner: Winner2016a
+	Winner2016a vs Winner2015a. Winner: Winner2016a
+	Winner2016a vs Winner2015b. Winner: Winner2015b
+
+Rankings:
+	#1. Winner2015b (15 wins)
+	#2. Winner2015a (12 wins)
+	#3. Winner2016a (12 wins)
+	#4. Mixed (8 wins)
+	#5. AggressivePack (8 wins)
+	#6. Blitz (6 wins)
+	#7. SittingDuck (4 wins)
+	#8. PrescientMoron (2 wins)
+	#9. Human (0 wins)
