@@ -62,5 +62,5 @@ http://csce.uark.edu/~mgashler/ai/a8/instructions.html
 * See who performs the best
 * Best W/L ratio
 * Where is current code base? (has to clean, contain provided code and old, but doesn’t combine them)
-* Create a private repo for it. Give Francis and Vlad access.
+* Create a private repo for it.
 * What does out agent have access to? Game states? Opponent locations? Opponent attacking?
